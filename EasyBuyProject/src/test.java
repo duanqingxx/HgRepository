@@ -195,7 +195,7 @@ public static void main(String[] args) {
 	eod.setEod_quantity(2);
 	eod.setEod_cost(85.8f);
 //	System.out.println(ordDao.insertOrder(order));
-//	System.out.println(eodDao.insertOrderDetail(eod));
+//	System.out.println(eodDao.insertOrderDetail(eod));111111111111111111111111
 //	System.out.println(ordBiz.addEOrder(order));
 //	System.out.println(eodBiz.addEOrderDetail(eod));
 //	System.out.println(ordDao.selectMaxId());
